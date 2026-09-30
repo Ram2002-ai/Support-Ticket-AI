@@ -1,0 +1,501 @@
+ticket_id,created_at,category,priority,status,response_time_hrs,resolution_time_hrs,agent_id,customer_rating,issue_summary
+TKT-001,2024-01-03 19:28,General,Low,Resolved,2.3,9.6,AGT-04,4.0,How to change account email
+TKT-002,2024-01-03 23:32,General,Medium,Escalated,3.4,,AGT-09,,Feature request
+TKT-003,2024-01-04 09:58,General,Low,Resolved,2.6,9.0,AGT-01,4.0,How to change account email
+TKT-004,2024-01-04 13:26,Technical,Low,Resolved,2.4,14.3,AGT-05,5.0,Login failure after update
+TKT-005,2024-01-04 21:40,Technical,Medium,Open,3.8,,AGT-09,,Login failure after update
+TKT-006,2024-01-05 04:39,General,Critical,Open,1.3,,AGT-10,,Request for product docs
+TKT-007,2024-01-05 05:38,Technical,Critical,Open,0.5,,AGT-03,,Login failure after update
+TKT-008,2024-01-05 07:58,General,Critical,Open,1.0,,AGT-07,,Feature request
+TKT-009,2024-01-05 08:09,Technical,Critical,Open,1.0,,AGT-02,,Login failure after update
+TKT-010,2024-01-05 12:30,Billing,Medium,Open,2.2,,AGT-02,,Incorrect charge on invoice
+TKT-011,2024-01-05 21:14,Billing,High,Resolved,1.3,14.7,AGT-04,4.0,Refund not processed
+TKT-012,2024-01-06 01:05,General,Medium,Resolved,1.2,4.4,AGT-09,5.0,How to change account email
+TKT-013,2024-01-06 12:09,Billing,Medium,Resolved,1.3,7.0,AGT-07,3.0,Duplicate payment
+TKT-014,2024-01-06 12:22,Billing,Critical,Open,0.3,,AGT-05,,Cannot update card details
+TKT-015,2024-01-06 15:00,Technical,Medium,Escalated,1.7,,AGT-03,,Login failure after update
+TKT-016,2024-01-06 20:47,Billing,Low,Resolved,2.0,6.0,AGT-02,5.0,Cannot update card details
+TKT-017,2024-01-06 23:53,Technical,High,Resolved,1.3,4.6,AGT-03,3.0,Dashboard not loading
+TKT-018,2024-01-07 01:26,General,High,Escalated,1.0,,AGT-02,,Request for product docs
+TKT-019,2024-01-07 03:49,Billing,Low,Resolved,5.4,10.2,AGT-02,4.0,Incorrect charge on invoice
+TKT-020,2024-01-07 04:30,General,Medium,Resolved,0.6,16.7,AGT-07,1.0,How to change account email
+TKT-021,2024-01-07 06:51,General,High,Resolved,1.2,6.3,AGT-02,5.0,Feature request
+TKT-022,2024-01-07 16:01,Technical,High,Resolved,0.3,3.3,AGT-01,4.0,Data export failing
+TKT-023,2024-01-07 21:06,Billing,Critical,Escalated,0.5,,AGT-06,,Cannot update card details
+TKT-024,2024-01-07 21:44,Technical,Medium,Open,3.0,,AGT-03,,API timeout in production
+TKT-025,2024-01-08 00:44,Billing,High,Resolved,1.4,5.4,AGT-05,2.0,Duplicate payment
+TKT-026,2024-01-08 03:06,Technical,Medium,Resolved,2.5,6.0,AGT-02,4.0,Data export failing
+TKT-027,2024-01-08 04:59,General,Critical,Resolved,0.8,5.1,AGT-03,2.0,How to change account email
+TKT-028,2024-01-08 08:52,General,Medium,Resolved,5.1,9.7,AGT-05,2.0,Request for product docs
+TKT-029,2024-01-08 11:08,General,High,Resolved,1.9,9.1,AGT-07,3.0,How to change account email
+TKT-030,2024-01-08 22:46,Technical,Medium,Resolved,2.5,9.7,AGT-05,4.0,Login failure after update
+TKT-031,2024-01-09 04:34,Technical,Medium,Resolved,6.2,15.9,AGT-06,2.0,API timeout in production
+TKT-032,2024-01-10 14:43,General,High,Resolved,1.8,10.0,AGT-06,4.0,Request for product docs
+TKT-033,2024-01-10 18:20,Technical,Medium,Resolved,3.6,13.1,AGT-03,5.0,Dashboard not loading
+TKT-034,2024-01-10 18:26,Technical,Critical,Resolved,0.4,3.8,AGT-03,4.0,Data export failing
+TKT-035,2024-01-11 01:06,Billing,Medium,Resolved,1.3,2.8,AGT-05,4.0,Cannot update card details
+TKT-036,2024-01-11 01:14,Billing,Medium,Resolved,1.6,17.4,AGT-01,4.0,Refund not processed
+TKT-037,2024-01-11 06:10,Technical,Medium,Open,3.8,,AGT-07,,API timeout in production
+TKT-038,2024-01-11 07:00,Billing,Medium,Open,3.0,,AGT-07,,Incorrect charge on invoice
+TKT-039,2024-01-11 09:42,Billing,Medium,Open,2.3,,AGT-04,,Refund not processed
+TKT-040,2024-01-11 14:54,General,Low,Resolved,3.1,13.4,AGT-04,4.0,How to change account email
+TKT-041,2024-01-11 15:30,General,Low,Open,2.6,,AGT-04,,Question about pricing plans
+TKT-042,2024-01-11 16:44,Technical,High,Resolved,3.1,9.4,AGT-07,3.0,API timeout in production
+TKT-043,2024-01-11 16:50,General,High,Resolved,1.9,9.9,AGT-08,4.0,Question about pricing plans
+TKT-044,2024-01-11 19:34,General,High,Resolved,1.3,2.8,AGT-02,5.0,How to change account email
+TKT-045,2024-01-12 01:19,Billing,Low,Resolved,3.3,16.5,AGT-05,3.0,Incorrect charge on invoice
+TKT-046,2024-01-12 06:43,Technical,Medium,Resolved,2.3,8.2,AGT-01,4.0,Login failure after update
+TKT-047,2024-01-12 10:23,Technical,Low,Resolved,3.1,35.0,AGT-05,4.0,API timeout in production
+TKT-048,2024-01-12 14:20,Billing,High,Open,1.5,,AGT-03,,Duplicate payment
+TKT-049,2024-01-12 15:39,General,High,Resolved,2.1,6.2,AGT-04,2.0,Feature request
+TKT-050,2024-01-12 16:45,Technical,Low,Resolved,4.5,9.4,AGT-05,4.0,Login failure after update
+TKT-051,2024-01-12 19:32,Technical,High,Resolved,0.7,10.2,AGT-04,4.0,Dashboard not loading
+TKT-052,2024-01-12 21:18,Billing,Low,Resolved,4.1,12.0,AGT-04,4.0,Duplicate payment
+TKT-053,2024-01-12 22:30,Billing,Medium,Resolved,1.1,3.1,AGT-08,4.0,Duplicate payment
+TKT-054,2024-01-13 01:33,General,Low,Resolved,5.5,23.1,AGT-09,5.0,How to change account email
+TKT-055,2024-01-13 09:53,Billing,Medium,Resolved,1.2,6.2,AGT-01,4.0,Cannot update card details
+TKT-056,2024-01-13 11:54,Billing,High,Open,2.1,,AGT-04,,Refund not processed
+TKT-057,2024-01-13 15:19,Billing,Critical,Escalated,0.9,,AGT-09,,Cannot update card details
+TKT-058,2024-01-13 17:13,Technical,Low,Resolved,1.9,13.8,AGT-06,3.0,Dashboard not loading
+TKT-059,2024-01-13 18:13,Technical,Medium,Resolved,1.8,7.5,AGT-03,5.0,Login failure after update
+TKT-060,2024-01-13 19:47,Technical,High,Open,0.3,,AGT-06,,Data export failing
+TKT-061,2024-01-13 20:52,Billing,Critical,Escalated,0.6,,AGT-02,,Incorrect charge on invoice
+TKT-062,2024-01-14 01:18,Billing,Medium,Resolved,2.0,7.7,AGT-01,4.0,Duplicate payment
+TKT-063,2024-01-14 01:29,General,Medium,Escalated,3.0,,AGT-07,,Question about pricing plans
+TKT-064,2024-01-14 03:15,Technical,Medium,Escalated,1.5,,AGT-06,,Dashboard not loading
+TKT-065,2024-01-14 05:22,Technical,Medium,Open,2.8,,AGT-08,,Login failure after update
+TKT-066,2024-01-14 07:50,Technical,Critical,Resolved,0.2,5.8,AGT-04,5.0,Data export failing
+TKT-067,2024-01-14 14:34,General,Medium,Resolved,2.0,4.3,AGT-09,5.0,Request for product docs
+TKT-068,2024-01-14 18:23,Billing,High,Resolved,1.2,4.1,AGT-05,3.0,Incorrect charge on invoice
+TKT-069,2024-01-14 20:47,Technical,Low,Resolved,2.4,9.7,AGT-08,3.0,Data export failing
+TKT-070,2024-01-14 22:24,Technical,Medium,Resolved,1.6,11.4,AGT-02,4.0,Dashboard not loading
+TKT-071,2024-01-14 23:00,Technical,High,Resolved,0.7,3.6,AGT-01,3.0,Login failure after update
+TKT-072,2024-01-15 03:12,General,Medium,Resolved,1.7,3.5,AGT-08,4.0,How to change account email
+TKT-073,2024-01-15 04:10,Technical,Medium,Resolved,1.3,14.5,AGT-09,2.0,Login failure after update
+TKT-074,2024-01-15 10:12,General,Critical,Open,0.9,,AGT-10,,Feature request
+TKT-075,2024-01-15 15:09,General,High,Resolved,2.0,5.1,AGT-04,3.0,Feature request
+TKT-076,2024-01-15 15:11,Technical,Medium,Resolved,0.6,3.0,AGT-01,4.0,API timeout in production
+TKT-077,2024-01-15 15:15,General,Medium,Open,4.3,,AGT-10,,How to change account email
+TKT-078,2024-01-15 16:12,Technical,Medium,Open,2.1,,AGT-07,,Login failure after update
+TKT-079,2024-01-15 16:23,General,Medium,Escalated,3.5,,AGT-03,,Request for product docs
+TKT-080,2024-01-15 22:03,Technical,Medium,Open,1.5,,AGT-08,,API timeout in production
+TKT-081,2024-01-15 23:51,Technical,Low,Escalated,3.0,,AGT-10,,Data export failing
+TKT-082,2024-01-15 23:54,Technical,Critical,Resolved,0.2,6.9,AGT-03,3.0,Login failure after update
+TKT-083,2024-01-16 01:14,Billing,Critical,Resolved,0.5,4.0,AGT-08,3.0,Duplicate payment
+TKT-084,2024-01-16 02:30,Technical,High,Resolved,0.4,3.2,AGT-08,4.0,Login failure after update
+TKT-085,2024-01-16 04:43,General,Critical,Resolved,0.8,4.5,AGT-06,4.0,Feature request
+TKT-086,2024-01-16 08:07,Technical,High,Escalated,0.6,,AGT-07,,Dashboard not loading
+TKT-087,2024-01-16 09:30,Billing,High,Resolved,1.4,8.2,AGT-03,5.0,Incorrect charge on invoice
+TKT-088,2024-01-16 17:40,Technical,High,Resolved,0.8,7.4,AGT-10,5.0,Login failure after update
+TKT-089,2024-01-16 19:44,Billing,Medium,Resolved,1.5,6.4,AGT-10,4.0,Duplicate payment
+TKT-090,2024-01-16 20:25,Billing,Medium,Resolved,1.6,7.9,AGT-10,5.0,Cannot update card details
+TKT-091,2024-01-16 21:51,General,Low,Resolved,2.2,5.4,AGT-08,2.0,Feature request
+TKT-092,2024-01-16 23:48,Technical,Medium,Resolved,1.0,6.6,AGT-01,3.0,Login failure after update
+TKT-093,2024-01-17 04:52,Technical,Medium,Escalated,1.4,,AGT-04,,Data export failing
+TKT-094,2024-01-17 12:36,Technical,Medium,Resolved,1.6,13.2,AGT-05,4.0,Login failure after update
+TKT-095,2024-01-17 19:39,Billing,Medium,Open,2.0,,AGT-10,,Refund not processed
+TKT-096,2024-01-17 21:36,Billing,Medium,Resolved,1.6,8.7,AGT-06,4.0,Cannot update card details
+TKT-097,2024-01-18 00:38,General,Low,Resolved,1.9,10.0,AGT-06,2.0,Feature request
+TKT-098,2024-01-18 08:17,Technical,High,Resolved,1.5,5.4,AGT-02,5.0,Dashboard not loading
+TKT-099,2024-01-18 09:46,General,High,Open,0.6,,AGT-08,,Request for product docs
+TKT-100,2024-01-18 13:38,Technical,Low,Resolved,2.9,10.5,AGT-04,4.0,Data export failing
+TKT-101,2024-01-18 16:50,Technical,Low,Escalated,3.2,,AGT-01,,Login failure after update
+TKT-102,2024-01-18 21:20,General,Medium,Resolved,4.0,10.0,AGT-10,5.0,How to change account email
+TKT-103,2024-01-19 02:36,General,High,Resolved,0.7,7.3,AGT-02,3.0,Feature request
+TKT-104,2024-01-19 07:19,General,High,Open,3.0,,AGT-01,,Feature request
+TKT-105,2024-01-19 11:37,General,Low,Resolved,2.8,5.5,AGT-01,4.0,Feature request
+TKT-106,2024-01-20 00:09,General,High,Resolved,1.3,6.4,AGT-05,5.0,Feature request
+TKT-107,2024-01-20 07:42,General,Low,Escalated,3.8,,AGT-02,,Question about pricing plans
+TKT-108,2024-01-20 11:04,Billing,Medium,Resolved,3.2,16.0,AGT-09,4.0,Duplicate payment
+TKT-109,2024-01-20 14:52,General,Critical,Resolved,0.8,4.2,AGT-06,4.0,Feature request
+TKT-110,2024-01-20 18:36,Technical,Low,Resolved,3.3,15.3,AGT-04,4.0,Login failure after update
+TKT-111,2024-01-20 21:55,Technical,Low,Resolved,2.2,10.2,AGT-01,5.0,API timeout in production
+TKT-112,2024-01-20 22:12,Technical,Medium,Open,0.8,,AGT-05,,Dashboard not loading
+TKT-113,2024-01-21 02:09,General,Medium,Open,1.8,,AGT-02,,Question about pricing plans
+TKT-114,2024-01-21 03:23,General,Critical,Resolved,0.4,2.0,AGT-10,5.0,Question about pricing plans
+TKT-115,2024-01-21 03:28,Billing,Critical,Open,0.7,,AGT-03,,Refund not processed
+TKT-116,2024-01-22 05:12,General,Low,Resolved,2.5,16.2,AGT-05,3.0,Request for product docs
+TKT-117,2024-01-22 11:37,General,Low,Resolved,5.3,15.8,AGT-01,4.0,Feature request
+TKT-118,2024-01-23 04:27,Technical,High,Resolved,0.9,8.5,AGT-02,3.0,Data export failing
+TKT-119,2024-01-23 07:13,Billing,Medium,Escalated,0.9,,AGT-03,,Refund not processed
+TKT-120,2024-01-23 07:55,Billing,High,Resolved,1.4,7.1,AGT-01,4.0,Refund not processed
+TKT-121,2024-01-23 13:02,General,High,Resolved,0.9,7.6,AGT-08,4.0,How to change account email
+TKT-122,2024-01-23 14:12,Technical,Low,Resolved,2.6,24.6,AGT-10,2.0,Login failure after update
+TKT-123,2024-01-23 19:11,General,High,Open,1.3,,AGT-10,,Request for product docs
+TKT-124,2024-01-23 19:20,Technical,Low,Resolved,2.8,9.2,AGT-03,2.0,API timeout in production
+TKT-125,2024-01-23 22:04,General,Medium,Resolved,2.4,7.4,AGT-08,2.0,How to change account email
+TKT-126,2024-01-24 03:49,Technical,Medium,Open,4.1,,AGT-06,,Login failure after update
+TKT-127,2024-01-24 04:00,General,Medium,Resolved,4.2,11.4,AGT-01,4.0,Question about pricing plans
+TKT-128,2024-01-24 07:49,Billing,High,Resolved,2.3,10.2,AGT-01,3.0,Cannot update card details
+TKT-129,2024-01-24 12:37,Technical,High,Resolved,1.1,6.7,AGT-06,2.0,Login failure after update
+TKT-130,2024-01-24 12:55,General,Critical,Resolved,1.6,7.1,AGT-05,5.0,How to change account email
+TKT-131,2024-01-25 03:26,General,Critical,Resolved,0.5,4.4,AGT-01,4.0,Request for product docs
+TKT-132,2024-01-25 06:42,General,Medium,Open,1.2,,AGT-10,,How to change account email
+TKT-133,2024-01-25 15:08,Billing,Low,Resolved,5.7,21.6,AGT-08,3.0,Duplicate payment
+TKT-134,2024-01-25 20:35,Technical,High,Resolved,1.0,6.3,AGT-06,4.0,Dashboard not loading
+TKT-135,2024-01-26 10:18,Billing,Critical,Escalated,0.8,,AGT-10,,Cannot update card details
+TKT-136,2024-01-26 17:31,Billing,Medium,Resolved,4.0,11.0,AGT-10,4.0,Cannot update card details
+TKT-137,2024-01-26 18:46,Technical,Medium,Resolved,1.3,19.0,AGT-10,4.0,Login failure after update
+TKT-138,2024-01-26 19:51,General,Medium,Escalated,0.9,,AGT-03,,Question about pricing plans
+TKT-139,2024-01-27 03:22,General,Low,Resolved,2.0,16.9,AGT-09,4.0,How to change account email
+TKT-140,2024-01-27 03:50,General,High,Open,1.7,,AGT-06,,Feature request
+TKT-141,2024-01-27 06:58,General,Medium,Open,1.5,,AGT-08,,How to change account email
+TKT-142,2024-01-27 19:17,General,High,Resolved,1.0,6.0,AGT-09,5.0,Question about pricing plans
+TKT-143,2024-01-28 01:57,Billing,High,Resolved,0.6,3.3,AGT-02,4.0,Duplicate payment
+TKT-144,2024-01-28 02:16,Billing,High,Resolved,0.5,2.5,AGT-05,5.0,Incorrect charge on invoice
+TKT-145,2024-01-28 07:36,Technical,Medium,Resolved,1.5,6.4,AGT-02,2.0,API timeout in production
+TKT-146,2024-01-28 09:19,General,Medium,Resolved,2.0,11.6,AGT-03,3.0,Feature request
+TKT-147,2024-01-28 12:58,Billing,High,Resolved,2.3,5.5,AGT-05,3.0,Duplicate payment
+TKT-148,2024-01-28 16:35,Technical,High,Open,1.1,,AGT-09,,Data export failing
+TKT-149,2024-01-28 16:56,Technical,Medium,Escalated,1.5,,AGT-09,,Dashboard not loading
+TKT-150,2024-01-28 22:25,Billing,High,Open,2.0,,AGT-04,,Refund not processed
+TKT-151,2024-01-29 04:04,Technical,Low,Resolved,6.2,11.5,AGT-04,4.0,API timeout in production
+TKT-152,2024-01-29 07:47,General,High,Resolved,0.6,5.0,AGT-06,4.0,Feature request
+TKT-153,2024-01-29 11:00,Technical,Low,Resolved,5.3,19.9,AGT-10,3.0,Data export failing
+TKT-154,2024-01-29 19:36,Billing,Low,Resolved,4.2,10.2,AGT-10,4.0,Refund not processed
+TKT-155,2024-01-29 20:26,General,Medium,Escalated,1.9,,AGT-03,,Feature request
+TKT-156,2024-01-29 20:47,Technical,Low,Resolved,1.9,18.4,AGT-02,4.0,Data export failing
+TKT-157,2024-01-29 21:40,General,Low,Resolved,6.8,13.0,AGT-08,4.0,Question about pricing plans
+TKT-158,2024-01-30 01:56,Billing,Low,Open,1.8,,AGT-04,,Cannot update card details
+TKT-159,2024-01-30 03:32,Technical,Medium,Resolved,0.8,12.2,AGT-02,3.0,API timeout in production
+TKT-160,2024-01-30 06:10,Technical,High,Resolved,0.7,5.8,AGT-01,3.0,Dashboard not loading
+TKT-161,2024-01-30 15:24,Billing,Low,Resolved,2.7,12.7,AGT-05,3.0,Duplicate payment
+TKT-162,2024-01-30 15:25,General,High,Resolved,0.8,3.0,AGT-04,4.0,How to change account email
+TKT-163,2024-01-30 19:43,Billing,High,Open,1.1,,AGT-06,,Incorrect charge on invoice
+TKT-164,2024-01-31 00:05,Billing,Low,Resolved,2.6,10.5,AGT-03,3.0,Refund not processed
+TKT-165,2024-01-31 03:14,Technical,Low,Escalated,4.2,,AGT-08,,Login failure after update
+TKT-166,2024-01-31 03:50,General,High,Open,0.8,,AGT-07,,How to change account email
+TKT-167,2024-01-31 05:35,General,High,Open,1.3,,AGT-05,,Question about pricing plans
+TKT-168,2024-01-31 05:47,General,Medium,Resolved,2.4,15.5,AGT-02,4.0,Request for product docs
+TKT-169,2024-01-31 07:35,Billing,High,Resolved,0.4,6.0,AGT-06,5.0,Incorrect charge on invoice
+TKT-170,2024-02-01 00:08,Technical,Low,Open,4.9,,AGT-07,,Data export failing
+TKT-171,2024-02-01 03:40,Billing,Medium,Resolved,1.4,4.3,AGT-04,4.0,Cannot update card details
+TKT-172,2024-02-01 05:29,Technical,High,Resolved,0.9,9.5,AGT-03,2.0,API timeout in production
+TKT-173,2024-02-01 08:40,General,Medium,Open,1.1,,AGT-06,,Request for product docs
+TKT-174,2024-02-01 12:16,General,High,Resolved,1.0,4.7,AGT-04,5.0,Request for product docs
+TKT-175,2024-02-01 16:38,Technical,Medium,Open,3.2,,AGT-05,,Dashboard not loading
+TKT-176,2024-02-02 20:35,Technical,High,Escalated,1.1,,AGT-04,,Dashboard not loading
+TKT-177,2024-02-03 12:45,General,Medium,Open,2.4,,AGT-04,,Question about pricing plans
+TKT-178,2024-02-04 01:42,Technical,Medium,Resolved,3.1,6.5,AGT-08,5.0,Data export failing
+TKT-179,2024-02-04 04:08,Billing,Low,Open,5.4,,AGT-05,,Duplicate payment
+TKT-180,2024-02-04 09:10,Technical,Low,Resolved,2.7,12.5,AGT-05,1.0,API timeout in production
+TKT-181,2024-02-04 13:49,Billing,High,Open,1.2,,AGT-07,,Refund not processed
+TKT-182,2024-02-04 16:11,Billing,Low,Open,2.9,,AGT-04,,Cannot update card details
+TKT-183,2024-02-04 22:24,Billing,Low,Open,4.3,,AGT-02,,Incorrect charge on invoice
+TKT-184,2024-02-04 23:07,Technical,Low,Resolved,1.7,9.2,AGT-09,4.0,Data export failing
+TKT-185,2024-02-04 23:23,Technical,Low,Resolved,3.2,11.9,AGT-01,5.0,Data export failing
+TKT-186,2024-02-05 05:04,Technical,High,Resolved,1.1,9.7,AGT-06,2.0,Login failure after update
+TKT-187,2024-02-05 05:09,Technical,Medium,Resolved,2.2,6.7,AGT-03,4.0,Dashboard not loading
+TKT-188,2024-02-05 06:16,General,Critical,Resolved,0.5,10.5,AGT-03,3.0,Question about pricing plans
+TKT-189,2024-02-05 10:52,General,Low,Resolved,1.7,5.9,AGT-01,5.0,Request for product docs
+TKT-190,2024-02-05 17:25,Technical,High,Resolved,1.0,4.7,AGT-10,3.0,Dashboard not loading
+TKT-191,2024-02-05 20:43,Billing,Medium,Open,1.8,,AGT-05,,Refund not processed
+TKT-192,2024-02-06 01:34,General,Medium,Escalated,4.0,,AGT-04,,Question about pricing plans
+TKT-193,2024-02-06 05:18,Billing,High,Resolved,0.7,6.9,AGT-08,3.0,Refund not processed
+TKT-194,2024-02-06 10:21,Technical,Critical,Open,0.8,,AGT-01,,Login failure after update
+TKT-195,2024-02-06 23:20,General,High,Resolved,1.8,9.4,AGT-06,3.0,Request for product docs
+TKT-196,2024-02-07 07:41,Technical,Low,Resolved,4.4,14.1,AGT-05,3.0,Login failure after update
+TKT-197,2024-02-07 21:19,General,Low,Resolved,1.3,9.8,AGT-06,5.0,How to change account email
+TKT-198,2024-02-08 02:17,Technical,High,Open,1.4,,AGT-02,,API timeout in production
+TKT-199,2024-02-08 06:48,Technical,Medium,Escalated,2.4,,AGT-10,,Dashboard not loading
+TKT-200,2024-02-08 07:20,Billing,High,Open,1.5,,AGT-03,,Duplicate payment
+TKT-201,2024-02-08 13:44,Billing,Medium,Escalated,1.4,,AGT-07,,Cannot update card details
+TKT-202,2024-02-08 15:21,Technical,Medium,Escalated,1.5,,AGT-08,,Data export failing
+TKT-203,2024-02-08 22:11,Billing,High,Resolved,1.6,5.0,AGT-04,3.0,Duplicate payment
+TKT-204,2024-02-08 23:08,General,High,Resolved,2.4,9.2,AGT-02,4.0,Feature request
+TKT-205,2024-02-09 00:28,Billing,Low,Resolved,4.9,15.6,AGT-03,4.0,Cannot update card details
+TKT-206,2024-02-09 03:39,Technical,Low,Escalated,2.4,,AGT-09,,Dashboard not loading
+TKT-207,2024-02-09 04:06,General,Medium,Resolved,7.5,15.4,AGT-10,3.0,How to change account email
+TKT-208,2024-02-09 05:10,General,Medium,Resolved,1.2,13.9,AGT-10,3.0,How to change account email
+TKT-209,2024-02-09 19:27,Technical,Medium,Open,2.6,,AGT-03,,Data export failing
+TKT-210,2024-02-09 23:43,Technical,Medium,Resolved,2.4,12.5,AGT-07,2.0,Login failure after update
+TKT-211,2024-02-10 07:09,General,High,Open,1.0,,AGT-02,,How to change account email
+TKT-212,2024-02-10 08:34,Technical,High,Resolved,0.8,10.2,AGT-08,4.0,API timeout in production
+TKT-213,2024-02-10 14:55,General,Medium,Escalated,1.4,,AGT-05,,How to change account email
+TKT-214,2024-02-10 18:20,General,Medium,Escalated,3.5,,AGT-08,,Feature request
+TKT-215,2024-02-10 19:15,General,Medium,Resolved,2.8,15.5,AGT-07,2.0,Request for product docs
+TKT-216,2024-02-10 20:51,Billing,Medium,Open,1.4,,AGT-10,,Refund not processed
+TKT-217,2024-02-10 22:54,Technical,Medium,Resolved,1.8,11.5,AGT-05,5.0,Dashboard not loading
+TKT-218,2024-02-10 22:58,Billing,Medium,Resolved,1.3,7.6,AGT-04,5.0,Duplicate payment
+TKT-219,2024-02-11 06:10,Technical,High,Resolved,0.4,5.6,AGT-06,3.0,Data export failing
+TKT-220,2024-02-11 08:29,General,Low,Open,2.5,,AGT-02,,Request for product docs
+TKT-221,2024-02-11 14:16,Technical,Low,Resolved,2.4,8.5,AGT-02,4.0,Login failure after update
+TKT-222,2024-02-11 21:03,Technical,Low,Resolved,1.4,13.2,AGT-06,4.0,Login failure after update
+TKT-223,2024-02-11 23:12,Billing,High,Resolved,1.5,3.6,AGT-09,4.0,Refund not processed
+TKT-224,2024-02-12 06:37,General,Medium,Resolved,1.2,7.2,AGT-06,4.0,Question about pricing plans
+TKT-225,2024-02-12 07:31,Billing,Low,Resolved,7.5,28.4,AGT-08,2.0,Duplicate payment
+TKT-226,2024-02-12 10:35,Billing,High,Resolved,0.6,7.9,AGT-02,5.0,Cannot update card details
+TKT-227,2024-02-12 16:27,Billing,Medium,Resolved,1.2,8.9,AGT-05,4.0,Refund not processed
+TKT-228,2024-02-12 16:28,Billing,Medium,Open,2.2,,AGT-07,,Cannot update card details
+TKT-229,2024-02-12 17:13,Technical,Critical,Resolved,0.9,5.1,AGT-04,4.0,API timeout in production
+TKT-230,2024-02-12 23:29,Technical,Low,Resolved,4.0,15.5,AGT-01,3.0,Data export failing
+TKT-231,2024-02-13 01:25,Technical,Low,Escalated,1.8,,AGT-01,,Data export failing
+TKT-232,2024-02-13 08:09,Billing,Medium,Resolved,1.5,10.4,AGT-10,5.0,Incorrect charge on invoice
+TKT-233,2024-02-13 09:42,Billing,Low,Open,2.8,,AGT-07,,Cannot update card details
+TKT-234,2024-02-13 11:06,Technical,High,Resolved,2.0,7.1,AGT-03,3.0,Login failure after update
+TKT-235,2024-02-13 15:42,Billing,Low,Open,6.6,,AGT-03,,Duplicate payment
+TKT-236,2024-02-13 18:57,Technical,Low,Open,3.2,,AGT-01,,Login failure after update
+TKT-237,2024-02-14 00:00,Billing,Low,Escalated,2.5,,AGT-10,,Duplicate payment
+TKT-238,2024-02-14 01:22,Technical,Medium,Resolved,1.0,9.2,AGT-02,3.0,Login failure after update
+TKT-239,2024-02-14 01:26,Technical,Low,Resolved,13.9,18.5,AGT-08,3.0,Dashboard not loading
+TKT-240,2024-02-14 04:41,Technical,Low,Open,6.4,,AGT-03,,Login failure after update
+TKT-241,2024-02-14 09:16,Billing,High,Resolved,1.0,7.0,AGT-04,2.0,Duplicate payment
+TKT-242,2024-02-14 12:25,Billing,Medium,Resolved,1.2,3.5,AGT-03,4.0,Refund not processed
+TKT-243,2024-02-14 15:40,General,Medium,Resolved,0.7,3.8,AGT-09,4.0,Question about pricing plans
+TKT-244,2024-02-14 18:37,Billing,Low,Escalated,3.7,,AGT-01,,Incorrect charge on invoice
+TKT-245,2024-02-15 03:49,Technical,Medium,Resolved,2.3,11.7,AGT-04,4.0,Login failure after update
+TKT-246,2024-02-15 07:53,Technical,Medium,Resolved,2.0,9.0,AGT-03,4.0,Data export failing
+TKT-247,2024-02-15 12:22,Technical,Medium,Open,2.1,,AGT-03,,API timeout in production
+TKT-248,2024-02-15 15:25,Technical,Low,Resolved,2.5,7.8,AGT-02,4.0,Data export failing
+TKT-249,2024-02-15 19:18,General,High,Resolved,1.0,4.2,AGT-10,3.0,Question about pricing plans
+TKT-250,2024-02-16 09:33,General,Critical,Resolved,0.8,5.0,AGT-04,3.0,Request for product docs
+TKT-251,2024-02-16 10:12,Billing,Low,Resolved,4.5,10.5,AGT-05,3.0,Cannot update card details
+TKT-252,2024-02-16 17:33,Technical,Low,Resolved,2.3,8.8,AGT-04,4.0,Login failure after update
+TKT-253,2024-02-16 17:34,Billing,Low,Escalated,5.3,,AGT-10,,Cannot update card details
+TKT-254,2024-02-16 21:22,Technical,Medium,Open,1.1,,AGT-04,,Dashboard not loading
+TKT-255,2024-02-17 01:38,Technical,Low,Resolved,3.9,10.2,AGT-04,5.0,Dashboard not loading
+TKT-256,2024-02-17 10:54,Billing,High,Resolved,0.3,5.7,AGT-04,5.0,Cannot update card details
+TKT-257,2024-02-17 14:02,Technical,High,Resolved,2.2,13.4,AGT-04,3.0,API timeout in production
+TKT-258,2024-02-17 15:48,General,High,Escalated,0.7,,AGT-01,,Request for product docs
+TKT-259,2024-02-17 23:49,Billing,Medium,Escalated,2.2,,AGT-07,,Incorrect charge on invoice
+TKT-260,2024-02-18 03:39,Technical,Critical,Escalated,0.4,,AGT-01,,Dashboard not loading
+TKT-261,2024-02-18 07:47,General,Low,Resolved,2.1,14.6,AGT-03,4.0,Question about pricing plans
+TKT-262,2024-02-18 10:09,Billing,Medium,Resolved,1.0,6.1,AGT-03,3.0,Duplicate payment
+TKT-263,2024-02-19 00:59,Billing,Medium,Resolved,3.1,13.9,AGT-03,5.0,Duplicate payment
+TKT-264,2024-02-19 05:06,Billing,Critical,Resolved,0.1,1.8,AGT-08,5.0,Duplicate payment
+TKT-265,2024-02-19 10:50,General,Medium,Resolved,1.6,5.7,AGT-06,5.0,How to change account email
+TKT-266,2024-02-19 12:10,Billing,High,Resolved,1.0,4.9,AGT-10,4.0,Incorrect charge on invoice
+TKT-267,2024-02-20 15:47,Billing,Low,Escalated,3.4,,AGT-04,,Refund not processed
+TKT-268,2024-02-20 23:55,Billing,Critical,Resolved,0.6,6.4,AGT-10,5.0,Duplicate payment
+TKT-269,2024-02-21 01:09,Billing,Medium,Resolved,1.1,9.9,AGT-01,4.0,Refund not processed
+TKT-270,2024-02-21 02:07,Technical,Medium,Open,0.7,,AGT-06,,Dashboard not loading
+TKT-271,2024-02-21 03:16,Billing,Critical,Resolved,0.3,5.5,AGT-08,4.0,Refund not processed
+TKT-272,2024-02-21 03:50,Technical,Medium,Open,5.3,,AGT-06,,API timeout in production
+TKT-273,2024-02-21 04:34,Technical,Medium,Resolved,1.1,7.0,AGT-10,4.0,API timeout in production
+TKT-274,2024-02-21 08:27,General,Medium,Escalated,2.0,,AGT-04,,Request for product docs
+TKT-275,2024-02-21 13:02,Billing,Low,Resolved,1.3,17.5,AGT-01,3.0,Duplicate payment
+TKT-276,2024-02-22 01:10,General,Medium,Resolved,2.0,12.0,AGT-08,4.0,Feature request
+TKT-277,2024-02-22 01:46,Technical,Low,Resolved,3.0,9.0,AGT-01,4.0,API timeout in production
+TKT-278,2024-02-22 02:54,Billing,Low,Resolved,2.0,9.5,AGT-08,3.0,Refund not processed
+TKT-279,2024-02-22 09:10,General,High,Resolved,3.2,7.5,AGT-08,5.0,Question about pricing plans
+TKT-280,2024-02-22 14:26,General,Medium,Resolved,2.3,5.4,AGT-09,4.0,Feature request
+TKT-281,2024-02-22 15:29,Billing,Medium,Resolved,2.2,15.5,AGT-05,4.0,Incorrect charge on invoice
+TKT-282,2024-02-22 16:56,General,Medium,Open,2.8,,AGT-09,,Feature request
+TKT-283,2024-02-22 16:58,Technical,Medium,Resolved,4.5,10.3,AGT-02,5.0,Login failure after update
+TKT-284,2024-02-22 17:01,Technical,Medium,Resolved,1.4,4.7,AGT-05,5.0,API timeout in production
+TKT-285,2024-02-23 04:46,General,Critical,Resolved,0.8,4.2,AGT-02,5.0,Request for product docs
+TKT-286,2024-02-23 07:18,Technical,Critical,Open,1.3,,AGT-08,,Data export failing
+TKT-287,2024-02-23 11:12,General,Medium,Resolved,0.9,6.2,AGT-08,4.0,Request for product docs
+TKT-288,2024-02-23 11:19,Technical,Medium,Resolved,3.4,8.6,AGT-09,4.0,Dashboard not loading
+TKT-289,2024-02-23 17:36,General,Medium,Open,6.5,,AGT-08,,Request for product docs
+TKT-290,2024-02-24 01:06,Technical,Medium,Resolved,1.6,8.0,AGT-04,5.0,Dashboard not loading
+TKT-291,2024-02-24 02:24,Billing,Medium,Open,1.5,,AGT-01,,Refund not processed
+TKT-292,2024-02-24 02:30,Technical,High,Resolved,1.7,7.1,AGT-10,2.0,API timeout in production
+TKT-293,2024-02-24 06:14,Technical,Medium,Resolved,1.1,13.8,AGT-05,4.0,API timeout in production
+TKT-294,2024-02-24 08:00,Billing,Medium,Resolved,1.8,7.8,AGT-01,4.0,Incorrect charge on invoice
+TKT-295,2024-02-24 08:29,Billing,Medium,Escalated,1.0,,AGT-10,,Incorrect charge on invoice
+TKT-296,2024-02-24 13:51,Technical,Medium,Resolved,2.3,8.0,AGT-10,4.0,Data export failing
+TKT-297,2024-02-24 15:26,Billing,Low,Resolved,1.6,11.2,AGT-05,5.0,Incorrect charge on invoice
+TKT-298,2024-02-24 18:50,Billing,Low,Resolved,3.2,10.8,AGT-08,3.0,Cannot update card details
+TKT-299,2024-02-25 01:53,General,High,Resolved,1.0,9.4,AGT-01,4.0,Request for product docs
+TKT-300,2024-02-25 02:20,General,Medium,Resolved,1.6,8.2,AGT-01,4.0,Request for product docs
+TKT-301,2024-02-25 09:45,General,Low,Resolved,3.8,14.2,AGT-03,4.0,Question about pricing plans
+TKT-302,2024-02-25 15:42,Technical,Medium,Resolved,3.3,9.3,AGT-07,2.0,API timeout in production
+TKT-303,2024-02-25 15:54,General,High,Resolved,1.0,4.6,AGT-02,3.0,Request for product docs
+TKT-304,2024-02-26 02:24,Technical,Medium,Resolved,1.6,5.9,AGT-01,4.0,API timeout in production
+TKT-305,2024-02-26 03:34,Billing,High,Resolved,1.8,9.8,AGT-07,5.0,Duplicate payment
+TKT-306,2024-02-26 09:34,Billing,Critical,Resolved,0.4,4.4,AGT-08,4.0,Incorrect charge on invoice
+TKT-307,2024-02-26 13:20,Technical,Medium,Resolved,2.5,19.4,AGT-08,3.0,API timeout in production
+TKT-308,2024-02-26 13:38,Billing,High,Resolved,1.1,3.2,AGT-08,5.0,Cannot update card details
+TKT-309,2024-02-27 10:08,Technical,Low,Resolved,5.7,10.9,AGT-09,4.0,Login failure after update
+TKT-310,2024-02-27 12:52,General,Critical,Resolved,0.3,11.1,AGT-07,2.0,Feature request
+TKT-311,2024-02-27 18:35,Billing,Medium,Resolved,1.1,7.8,AGT-06,3.0,Cannot update card details
+TKT-312,2024-02-27 19:09,Billing,Critical,Resolved,0.7,2.9,AGT-09,3.0,Cannot update card details
+TKT-313,2024-02-27 22:04,General,Medium,Open,2.2,,AGT-04,,Request for product docs
+TKT-314,2024-02-28 00:43,Technical,Low,Resolved,5.6,11.3,AGT-01,5.0,Dashboard not loading
+TKT-315,2024-02-28 02:57,Billing,Low,Open,2.0,,AGT-08,,Duplicate payment
+TKT-316,2024-02-28 04:20,General,High,Resolved,0.6,9.3,AGT-03,3.0,Request for product docs
+TKT-317,2024-02-28 04:31,General,Medium,Open,5.5,,AGT-10,,Feature request
+TKT-318,2024-02-28 08:05,Technical,Low,Resolved,1.8,8.0,AGT-05,5.0,Data export failing
+TKT-319,2024-02-28 09:30,Technical,High,Resolved,1.7,6.0,AGT-09,4.0,Dashboard not loading
+TKT-320,2024-02-28 14:45,Billing,High,Resolved,1.1,3.5,AGT-01,3.0,Cannot update card details
+TKT-321,2024-02-28 20:55,Billing,Medium,Escalated,2.2,,AGT-07,,Cannot update card details
+TKT-322,2024-02-28 23:50,Technical,Medium,Resolved,4.5,13.4,AGT-05,4.0,Login failure after update
+TKT-323,2024-02-29 08:28,Billing,Low,Resolved,4.4,10.1,AGT-05,4.0,Incorrect charge on invoice
+TKT-324,2024-02-29 11:10,Technical,High,Resolved,0.5,5.8,AGT-03,4.0,Dashboard not loading
+TKT-325,2024-02-29 12:28,General,Medium,Open,2.8,,AGT-10,,Feature request
+TKT-326,2024-02-29 13:03,Billing,High,Resolved,1.1,7.0,AGT-04,4.0,Incorrect charge on invoice
+TKT-327,2024-02-29 16:52,Technical,Medium,Resolved,2.5,6.7,AGT-09,4.0,Dashboard not loading
+TKT-328,2024-02-29 17:56,Billing,Medium,Resolved,1.4,7.6,AGT-05,3.0,Cannot update card details
+TKT-329,2024-02-29 18:15,General,Medium,Escalated,1.5,,AGT-01,,Question about pricing plans
+TKT-330,2024-03-01 02:02,Billing,Low,Resolved,5.6,19.2,AGT-09,4.0,Incorrect charge on invoice
+TKT-331,2024-03-01 05:24,Technical,High,Resolved,2.7,6.8,AGT-02,5.0,Dashboard not loading
+TKT-332,2024-03-01 08:42,Technical,Medium,Escalated,2.3,,AGT-03,,Login failure after update
+TKT-333,2024-03-01 13:25,Technical,Medium,Resolved,1.6,8.8,AGT-09,5.0,Login failure after update
+TKT-334,2024-03-01 13:58,Technical,Critical,Resolved,1.2,5.7,AGT-09,4.0,Data export failing
+TKT-335,2024-03-01 15:58,General,Critical,Resolved,0.3,5.2,AGT-10,4.0,How to change account email
+TKT-336,2024-03-01 19:01,Technical,High,Resolved,0.7,17.8,AGT-05,3.0,API timeout in production
+TKT-337,2024-03-01 20:09,General,Low,Resolved,1.4,7.0,AGT-08,4.0,How to change account email
+TKT-338,2024-03-01 21:55,General,Medium,Resolved,2.6,11.0,AGT-04,3.0,Question about pricing plans
+TKT-339,2024-03-02 03:40,Technical,High,Open,1.2,,AGT-08,,Data export failing
+TKT-340,2024-03-02 06:38,Technical,Medium,Open,1.5,,AGT-06,,Dashboard not loading
+TKT-341,2024-03-02 09:38,Billing,Low,Resolved,1.9,150.0,AGT-01,5.0,Refund not processed
+TKT-342,2024-03-02 11:46,General,High,Resolved,1.6,6.2,AGT-05,5.0,How to change account email
+TKT-343,2024-03-02 23:12,Technical,Medium,Resolved,0.8,10.0,AGT-05,4.0,Data export failing
+TKT-344,2024-03-03 05:40,Technical,Medium,Escalated,2.4,,AGT-03,,API timeout in production
+TKT-345,2024-03-03 09:25,Billing,Critical,Resolved,0.3,2.2,AGT-04,3.0,Refund not processed
+TKT-346,2024-03-03 10:35,General,Medium,Resolved,2.8,5.8,AGT-06,3.0,Feature request
+TKT-347,2024-03-03 16:17,Technical,Medium,Resolved,1.4,6.4,AGT-01,3.0,Login failure after update
+TKT-348,2024-03-03 17:02,Technical,Medium,Resolved,1.3,400.0,AGT-02,3.0,Login failure after update
+TKT-349,2024-03-04 10:16,Billing,Medium,Resolved,1.9,12.1,AGT-08,3.0,Incorrect charge on invoice
+TKT-350,2024-03-04 11:24,General,Low,Open,5.0,,AGT-04,,Feature request
+TKT-351,2024-03-04 14:37,Billing,High,Resolved,0.8,6.2,AGT-07,4.0,Refund not processed
+TKT-352,2024-03-04 16:50,Billing,High,Escalated,1.7,,AGT-06,,Duplicate payment
+TKT-353,2024-03-04 18:25,General,Medium,Resolved,2.5,7.6,AGT-06,4.0,Request for product docs
+TKT-354,2024-03-04 21:46,General,Medium,Open,3.3,,AGT-05,,How to change account email
+TKT-355,2024-03-04 21:55,Billing,High,Open,0.8,,AGT-05,,Cannot update card details
+TKT-356,2024-03-04 22:57,Technical,Low,Escalated,2.9,,AGT-09,,Dashboard not loading
+TKT-357,2024-03-05 02:37,General,Medium,Resolved,2.8,6.4,AGT-10,5.0,How to change account email
+TKT-358,2024-03-05 09:18,General,Medium,Resolved,1.0,12.0,AGT-03,5.0,How to change account email
+TKT-359,2024-03-05 18:37,Technical,High,Resolved,1.7,16.4,AGT-07,2.0,Data export failing
+TKT-360,2024-03-05 19:19,Technical,Low,Resolved,1.2,10.3,AGT-10,3.0,API timeout in production
+TKT-361,2024-03-06 06:56,General,High,Resolved,0.6,5.0,AGT-01,4.0,Question about pricing plans
+TKT-362,2024-03-06 10:04,General,Medium,Escalated,1.6,,AGT-08,,Request for product docs
+TKT-363,2024-03-06 11:54,General,Medium,Escalated,4.3,,AGT-05,,How to change account email
+TKT-364,2024-03-06 15:30,Technical,Low,Resolved,4.6,10.9,AGT-10,4.0,Login failure after update
+TKT-365,2024-03-06 21:37,Billing,Medium,Resolved,3.5,12.2,AGT-06,5.0,Incorrect charge on invoice
+TKT-366,2024-03-07 04:42,General,Medium,Open,3.5,,AGT-09,,Feature request
+TKT-367,2024-03-07 07:24,General,Low,Escalated,2.0,,AGT-02,,Question about pricing plans
+TKT-368,2024-03-07 13:05,General,Low,Resolved,3.4,13.6,AGT-02,4.0,How to change account email
+TKT-369,2024-03-07 23:31,Billing,Low,Resolved,2.0,6.1,AGT-10,5.0,Cannot update card details
+TKT-370,2024-03-08 00:05,Billing,Medium,Open,3.6,,AGT-06,,Refund not processed
+TKT-371,2024-03-08 08:44,General,Low,Resolved,2.9,6.9,AGT-06,5.0,How to change account email
+TKT-372,2024-03-08 20:56,Billing,Critical,Resolved,0.6,3.5,AGT-02,5.0,Refund not processed
+TKT-373,2024-03-08 21:50,General,Medium,Escalated,1.3,,AGT-03,,How to change account email
+TKT-374,2024-03-08 23:34,Technical,High,Escalated,1.1,,AGT-09,,Dashboard not loading
+TKT-375,2024-03-09 01:13,General,Critical,Escalated,0.3,,AGT-04,,Question about pricing plans
+TKT-376,2024-03-09 05:03,General,Low,Open,6.7,,AGT-06,,Feature request
+TKT-377,2024-03-10 01:04,Technical,High,Resolved,0.8,6.3,AGT-04,2.0,Dashboard not loading
+TKT-378,2024-03-10 01:59,Technical,High,Resolved,0.9,3.9,AGT-03,5.0,Dashboard not loading
+TKT-379,2024-03-10 07:31,Technical,Medium,Resolved,1.7,7.2,AGT-02,4.0,Dashboard not loading
+TKT-380,2024-03-10 10:28,Technical,Medium,Resolved,1.1,10.8,AGT-10,2.0,Login failure after update
+TKT-381,2024-03-10 13:24,Technical,Medium,Resolved,1.4,6.3,AGT-10,5.0,Dashboard not loading
+TKT-382,2024-03-10 15:40,Technical,Low,Resolved,2.3,17.7,AGT-02,3.0,Dashboard not loading
+TKT-383,2024-03-10 23:23,General,Medium,Resolved,3.3,6.3,AGT-04,5.0,Feature request
+TKT-384,2024-03-11 06:29,Technical,Critical,Open,0.3,,AGT-06,,API timeout in production
+TKT-385,2024-03-11 06:41,Billing,Critical,Resolved,0.4,5.0,AGT-04,4.0,Incorrect charge on invoice
+TKT-386,2024-03-11 10:35,Technical,Low,Resolved,2.2,13.1,AGT-08,4.0,Data export failing
+TKT-387,2024-03-11 11:22,Technical,High,Resolved,1.0,4.6,AGT-03,4.0,Dashboard not loading
+TKT-388,2024-03-11 16:32,Billing,Medium,Resolved,5.6,15.2,AGT-01,5.0,Cannot update card details
+TKT-389,2024-03-11 17:52,Billing,Critical,Open,2.3,,AGT-04,,Refund not processed
+TKT-390,2024-03-11 19:56,Technical,Low,Resolved,3.8,15.2,AGT-06,3.0,Data export failing
+TKT-391,2024-03-11 20:43,Technical,Critical,Resolved,0.4,3.5,AGT-02,5.0,Login failure after update
+TKT-392,2024-03-11 21:14,General,High,Open,1.1,,AGT-09,,How to change account email
+TKT-393,2024-03-11 22:15,Billing,Low,Resolved,5.2,17.5,AGT-01,4.0,Incorrect charge on invoice
+TKT-394,2024-03-11 23:59,Billing,Low,Resolved,5.3,17.1,AGT-01,2.0,Duplicate payment
+TKT-395,2024-03-12 00:53,General,High,Resolved,0.9,5.8,AGT-06,5.0,Feature request
+TKT-396,2024-03-12 02:05,General,Low,Resolved,3.5,14.2,AGT-06,4.0,Question about pricing plans
+TKT-397,2024-03-12 04:54,Billing,Medium,Resolved,6.0,1.5,AGT-03,4.0,Cannot update card details
+TKT-398,2024-03-12 05:08,Billing,Critical,Resolved,0.2,3.5,AGT-03,4.0,Duplicate payment
+TKT-399,2024-03-12 07:35,Billing,Medium,Resolved,1.7,7.0,AGT-01,4.0,Duplicate payment
+TKT-400,2024-03-12 07:58,Technical,Medium,Resolved,0.9,9.0,AGT-07,3.0,Login failure after update
+TKT-401,2024-03-12 09:25,Technical,Medium,Resolved,4.7,13.6,AGT-04,3.0,API timeout in production
+TKT-402,2024-03-12 12:10,Billing,Low,Resolved,3.4,12.1,AGT-02,4.0,Duplicate payment
+TKT-403,2024-03-12 13:59,Billing,Critical,Open,0.3,,AGT-04,,Cannot update card details
+TKT-404,2024-03-12 15:03,Technical,Medium,Resolved,2.5,11.6,AGT-10,3.0,Data export failing
+TKT-405,2024-03-13 07:16,General,Low,Resolved,2.5,4.6,AGT-03,3.0,Request for product docs
+TKT-406,2024-03-13 10:52,Technical,Medium,Resolved,1.2,7.7,AGT-09,4.0,Dashboard not loading
+TKT-407,2024-03-13 16:00,Technical,Critical,Resolved,0.2,4.7,AGT-03,3.0,Login failure after update
+TKT-408,2024-03-13 19:28,Billing,Low,Resolved,1.6,9.7,AGT-02,4.0,Incorrect charge on invoice
+TKT-409,2024-03-13 19:38,Billing,High,Open,1.2,,AGT-03,,Duplicate payment
+TKT-410,2024-03-13 20:43,Billing,High,Escalated,0.9,,AGT-04,,Cannot update card details
+TKT-411,2024-03-13 21:52,General,High,Resolved,0.5,2.7,AGT-02,4.0,Feature request
+TKT-412,2024-03-14 02:18,General,Critical,Resolved,0.4,5.9,AGT-06,4.0,Request for product docs
+TKT-413,2024-03-14 02:48,General,High,Escalated,0.6,,AGT-04,,Request for product docs
+TKT-414,2024-03-14 02:52,General,Critical,Resolved,0.6,5.3,AGT-08,5.0,Question about pricing plans
+TKT-415,2024-03-14 03:39,General,Low,Resolved,2.1,9.8,AGT-05,4.0,Feature request
+TKT-416,2024-03-14 11:01,General,High,Resolved,0.8,2.9,AGT-05,4.0,Question about pricing plans
+TKT-417,2024-03-14 23:12,Billing,Medium,Resolved,1.2,3.7,AGT-05,3.0,Duplicate payment
+TKT-418,2024-03-15 04:35,Billing,Medium,Open,2.7,,AGT-02,,Refund not processed
+TKT-419,2024-03-15 17:40,Technical,High,Resolved,1.4,4.3,AGT-08,4.0,Data export failing
+TKT-420,2024-03-15 21:41,Technical,Critical,Escalated,0.4,,AGT-02,,Data export failing
+TKT-421,2024-03-15 23:14,Billing,High,Resolved,1.2,8.0,AGT-08,3.0,Refund not processed
+TKT-422,2024-03-16 01:07,General,Medium,Resolved,0.9,4.1,AGT-10,5.0,Feature request
+TKT-423,2024-03-16 03:57,Technical,Medium,Resolved,4.6,12.3,AGT-08,4.0,Data export failing
+TKT-424,2024-03-16 07:45,Technical,Medium,Resolved,0.7,7.1,AGT-05,4.0,Data export failing
+TKT-425,2024-03-16 08:30,Billing,Medium,Resolved,1.2,7.4,AGT-04,4.0,Refund not processed
+TKT-426,2024-03-16 11:18,Billing,Medium,Resolved,2.1,13.2,AGT-09,4.0,Cannot update card details
+TKT-427,2024-03-16 13:43,Billing,Low,Resolved,2.8,260.0,AGT-03,3.0,Duplicate payment
+TKT-428,2024-03-16 14:36,General,Low,Resolved,3.6,13.3,AGT-05,4.0,How to change account email
+TKT-429,2024-03-16 16:15,Technical,High,Resolved,2.6,9.3,AGT-08,3.0,Login failure after update
+TKT-430,2024-03-16 23:31,General,Medium,Resolved,1.7,8.0,AGT-10,3.0,Question about pricing plans
+TKT-431,2024-03-17 01:48,Billing,Critical,Resolved,0.7,3.6,AGT-10,4.0,Duplicate payment
+TKT-432,2024-03-17 13:37,Technical,Medium,Resolved,5.2,21.4,AGT-01,4.0,Dashboard not loading
+TKT-433,2024-03-18 00:09,Technical,Low,Open,3.1,,AGT-09,,Data export failing
+TKT-434,2024-03-18 01:57,General,Low,Open,5.2,,AGT-02,,How to change account email
+TKT-435,2024-03-18 04:19,General,Low,Resolved,2.5,9.0,AGT-06,5.0,How to change account email
+TKT-436,2024-03-18 05:35,Billing,Critical,Resolved,0.5,2.3,AGT-10,5.0,Incorrect charge on invoice
+TKT-437,2024-03-18 05:35,General,Low,Resolved,7.9,26.3,AGT-07,3.0,Feature request
+TKT-438,2024-03-18 10:23,Billing,Medium,Resolved,2.3,6.0,AGT-10,4.0,Duplicate payment
+TKT-439,2024-03-18 17:10,General,Critical,Resolved,0.7,4.9,AGT-04,3.0,Request for product docs
+TKT-440,2024-03-18 19:11,Billing,Critical,Resolved,0.3,5.4,AGT-04,5.0,Refund not processed
+TKT-441,2024-03-18 21:21,Billing,Low,Resolved,5.9,9.0,AGT-04,5.0,Duplicate payment
+TKT-442,2024-03-19 01:50,General,Low,Resolved,1.4,8.3,AGT-04,5.0,Feature request
+TKT-443,2024-03-19 16:08,Billing,Low,Resolved,4.0,10.7,AGT-07,3.0,Duplicate payment
+TKT-444,2024-03-19 16:39,Technical,Low,Resolved,2.7,16.8,AGT-05,4.0,Dashboard not loading
+TKT-445,2024-03-20 07:04,Technical,Low,Open,2.3,,AGT-08,,Data export failing
+TKT-446,2024-03-20 08:00,Billing,Medium,Escalated,3.3,,AGT-05,,Incorrect charge on invoice
+TKT-447,2024-03-20 16:52,General,Critical,Resolved,1.0,7.2,AGT-04,5.0,Feature request
+TKT-448,2024-03-21 03:18,General,Medium,Escalated,2.3,,AGT-02,,Question about pricing plans
+TKT-449,2024-03-21 17:21,General,Medium,Resolved,2.1,7.4,AGT-06,3.0,Question about pricing plans
+TKT-450,2024-03-21 19:13,Technical,Low,Escalated,2.6,,AGT-09,,API timeout in production
+TKT-451,2024-03-21 22:16,Technical,High,Escalated,1.1,,AGT-09,,Login failure after update
+TKT-452,2024-03-21 22:57,Billing,Medium,Resolved,2.0,11.9,AGT-03,5.0,Cannot update card details
+TKT-453,2024-03-22 04:41,Billing,High,Open,0.9,,AGT-05,,Duplicate payment
+TKT-454,2024-03-22 06:32,Billing,Critical,Escalated,0.4,,AGT-08,,Cannot update card details
+TKT-455,2024-03-22 09:21,General,Medium,Escalated,3.9,,AGT-07,,How to change account email
+TKT-456,2024-03-22 18:17,General,Low,Escalated,1.7,,AGT-01,,Question about pricing plans
+TKT-457,2024-03-22 18:24,General,Low,Resolved,3.3,21.5,AGT-06,3.0,How to change account email
+TKT-458,2024-03-23 06:55,Technical,Medium,Resolved,2.6,6.2,AGT-01,4.0,API timeout in production
+TKT-459,2024-03-23 11:16,Technical,Critical,Open,0.2,,AGT-02,,API timeout in production
+TKT-460,2024-03-23 22:37,Technical,Medium,Resolved,3.4,14.9,AGT-07,2.0,Login failure after update
+TKT-461,2024-03-23 23:19,Technical,High,Resolved,1.3,5.7,AGT-02,4.0,Data export failing
+TKT-462,2024-03-24 03:44,Technical,Medium,Resolved,1.4,7.5,AGT-04,4.0,Login failure after update
+TKT-463,2024-03-24 09:05,Billing,Low,Resolved,1.4,6.4,AGT-06,5.0,Refund not processed
+TKT-464,2024-03-24 17:11,Billing,Medium,Resolved,1.0,5.4,AGT-07,3.0,Duplicate payment
+TKT-465,2024-03-24 17:15,General,High,Open,2.2,,AGT-05,,Feature request
+TKT-466,2024-03-24 17:51,Technical,High,Resolved,1.9,7.3,AGT-01,4.0,Dashboard not loading
+TKT-467,2024-03-24 21:19,General,Medium,Open,1.0,,AGT-08,,Feature request
+TKT-468,2024-03-24 23:00,Billing,Low,Open,2.5,,AGT-10,,Duplicate payment
+TKT-469,2024-03-24 23:30,Technical,High,Resolved,1.5,4.5,AGT-09,4.0,API timeout in production
+TKT-470,2024-03-25 06:46,Billing,Low,Resolved,2.8,12.6,AGT-08,4.0,Duplicate payment
+TKT-471,2024-03-25 10:32,Billing,Critical,Resolved,0.4,9.3,AGT-05,5.0,Duplicate payment
+TKT-472,2024-03-25 16:42,Billing,Low,Escalated,4.0,,AGT-09,,Duplicate payment
+TKT-473,2024-03-25 16:55,Billing,Low,Open,2.1,,AGT-05,,Refund not processed
+TKT-474,2024-03-25 17:06,General,Medium,Resolved,3.4,6.0,AGT-02,5.0,Request for product docs
+TKT-475,2024-03-25 17:07,Technical,Medium,Resolved,1.8,7.2,AGT-09,4.0,Login failure after update
+TKT-476,2024-03-25 18:32,Technical,Medium,Resolved,1.3,9.9,AGT-04,4.0,Data export failing
+TKT-477,2024-03-25 20:41,Technical,Medium,Resolved,1.1,6.6,AGT-10,5.0,API timeout in production
+TKT-478,2024-03-26 02:32,Technical,Critical,Escalated,0.7,,AGT-04,,Data export failing
+TKT-479,2024-03-26 14:00,Technical,Medium,Open,1.1,,AGT-09,,Data export failing
+TKT-480,2024-03-26 14:00,Billing,Medium,Resolved,3.1,11.7,AGT-06,4.0,Refund not processed
+TKT-481,2024-03-26 19:59,General,Medium,Open,2.4,,AGT-05,,Question about pricing plans
+TKT-482,2024-03-27 00:55,General,Low,Resolved,2.9,8.8,AGT-03,2.0,How to change account email
+TKT-483,2024-03-27 04:31,General,Medium,Open,2.4,,AGT-09,,How to change account email
+TKT-484,2024-03-27 10:16,Technical,Low,Resolved,6.0,1.5,AGT-01,4.0,Data export failing
+TKT-485,2024-03-27 16:28,Billing,Medium,Resolved,5.6,11.8,AGT-05,4.0,Incorrect charge on invoice
+TKT-486,2024-03-27 17:09,General,Low,Escalated,8.3,,AGT-04,,Feature request
+TKT-487,2024-03-27 23:31,Technical,Critical,Resolved,0.3,4.7,AGT-06,3.0,Data export failing
+TKT-488,2024-03-28 08:40,Billing,Medium,Resolved,2.0,13.8,AGT-03,5.0,Cannot update card details
+TKT-489,2024-03-28 11:22,Technical,High,Escalated,1.3,,AGT-07,,Data export failing
+TKT-490,2024-03-28 14:54,General,Medium,Resolved,7.0,11.8,AGT-04,3.0,Request for product docs
+TKT-491,2024-03-28 18:06,Technical,Low,Resolved,1.2,17.3,AGT-02,4.0,Dashboard not loading
+TKT-492,2024-03-28 20:29,General,High,Resolved,0.5,9.8,AGT-02,4.0,How to change account email
+TKT-493,2024-03-29 04:30,General,Medium,Resolved,3.0,7.2,AGT-07,4.0,Question about pricing plans
+TKT-494,2024-03-29 12:51,Billing,High,Resolved,1.0,7.2,AGT-03,3.0,Duplicate payment
+TKT-495,2024-03-29 13:49,General,Medium,Resolved,1.5,6.3,AGT-04,2.0,How to change account email
+TKT-496,2024-03-29 14:11,Technical,Medium,Open,3.6,,AGT-07,,Dashboard not loading
+TKT-497,2024-03-30 03:45,Technical,High,Resolved,0.7,6.1,AGT-04,4.0,Login failure after update
+TKT-498,2024-03-30 15:53,Billing,Medium,Resolved,1.5,5.4,AGT-04,5.0,Duplicate payment
+TKT-499,2024-03-31 01:44,General,Medium,Open,1.9,,AGT-03,,Question about pricing plans
+TKT-500,2024-03-31 06:06,Billing,High,Resolved,1.0,3.8,AGT-04,5.0,Cannot update card details
